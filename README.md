@@ -26,8 +26,9 @@ Project Components:
 
 ## Languages Used
 
-- **JAVA**: 45%
+- **JAVA**: 40%
 - **JSP**: 20%
 - **HTML**: 13%
 - **CSS**: 12%
--  **JS**: 10%
+-  **JS**: 8%
+- **SQL**: 7%
