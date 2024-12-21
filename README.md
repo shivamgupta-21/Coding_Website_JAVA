@@ -22,3 +22,12 @@ Project Components:
 7. JavaScript:
     Validate form input (email, password) on the client-side before submitting it.
 
+
+
+## Languages Used
+
+- **JAVA**: 45%
+- **JSP**: 20%
+- **HTML**: 13%
+- **CSS**: 12%
+-  **JS**: 10 
