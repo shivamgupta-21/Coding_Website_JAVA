@@ -30,4 +30,4 @@ Project Components:
 - **JSP**: 20%
 - **HTML**: 13%
 - **CSS**: 12%
--  **JS**: 10 
+-  **JS**: 10%
